@@ -280,7 +280,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(julia-snail multi-vterm vterm which-key julia-repl julia-mode magit page-break-lines org-ref biblio doom-themes counsel-projectile yasnippet-snippets writegood-mode projectile markdown-mode eglot-inactive-regions counsel company auctex)))
+   '(org-ref biblio vterm magit ivy yasnippet which-key julia-mode julia-snail company-auctex cuda-mode page-break-lines doom-themes counsel-projectile yasnippet-snippets writegood-mode projectile markdown-mode counsel company auctex)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
